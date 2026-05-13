@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+env/
+.streamlit/
+email_history.csv
+credentials.json
+token.json
+*.log
+.DS_Store
+Thumbs.db
