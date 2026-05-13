@@ -126,7 +126,7 @@ These contain sensitive Google OAuth data.
 
 ## 👨‍💻 Author
 
-Developed by **KAMI**
+Developed by https://github.com/Kami2628
 
 ---
 
